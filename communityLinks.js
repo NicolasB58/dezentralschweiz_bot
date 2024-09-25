@@ -45,18 +45,19 @@ const communityLinks = {
     {
       name: "	Einezwänzg Solothurn",
       url: "https://t.me/+o2gLvxb2SxFhNTI0"
-      {
+    },
+    {
         name: "Einundzwanzig Basel",
         url: "https://t.me/EinundzwanzigBS"
-      }
-      {
+    },
+    {
         name: "Einundzwanzig Thurgau",
         url: "https://t.me/Einundzwanzig_Thurgau"
-      }
-      {
+    },
+    {
         name: "Bitcoin Alps",
         url: "https://t.me/bitcoin_alps"
-      }
+    
     }
   ],
   'Info Gruppen': [
@@ -85,7 +86,6 @@ const communityLinks = {
     {
       name: 'Bitcoin Chalet in Oberiberg (SZ)',
       url: 'https://x.com/Bitcoin_Chalet'
-    }
     }
   ],
   'Online Content': [
@@ -167,3 +167,4 @@ const communityLinks = {
 };
 
 export default communityLinks;
+
