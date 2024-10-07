@@ -43,6 +43,15 @@ In dieser Gruppe sollte sich alles um Meetups drehen. Nutze /meetups um die anst
 Wir führen des Weiteren noch eine Bitcoin, sowie eine Offtopic Gruppe.
 
 Benutze /links um verschiedene Gruppen und andere Community-Ressourcen zu finden.`
+   },
+  '-1001737615727': {
+    title: "Einundzwanzig Meetup Ostschweiz",
+    welcomeMessage: `<b>Willkommen in der Einundzwanzig Meetup Ostschweiz Gruppe!</b>
+
+In dieser Gruppe  erfährst du alles wichtige über das nächste Bitcoin Meetup  in  deiner Region. 
+Bis das nächste Meetup Ansteht erzähl doch etwas von Dir.
+
+Benutze /meetups für Informationen über bevorstehende Treffen und /links um verschiedene Gruppen und andere Community-Ressourcen zu finden.`
   }
 };
 
