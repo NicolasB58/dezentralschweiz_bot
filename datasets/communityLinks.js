@@ -144,7 +144,7 @@ const communityLinks = {
   'Dienstleister': [
     {
       name: 'Lipa',
-      url: 'https://lipa.swiss'
+      url: 'https://lipa.swiss/dezentralschweiz'
     },
     {
       name: 'Pocket',
