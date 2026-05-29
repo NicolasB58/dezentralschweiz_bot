@@ -183,8 +183,8 @@ const communityLinks = {
   ],
   Dienstleister: [
     {
-      name: "Lipa",
-      url: "https://lipa.swiss",
+      name: "Fortego",
+      url: "https://fortego.ch",
     },
     {
       name: "Pocket",
